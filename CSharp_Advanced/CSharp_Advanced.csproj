@@ -54,6 +54,31 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Unit1_Delegate.cs" />
+    <Compile Include="Unit1_Event.cs" />
+    <Compile Include="Unit1_Tuple.cs" />
+    <Compile Include="Unit2_Foreach.cs" />
+    <Compile Include="Unit2_Interface.cs" />
+    <Compile Include="Unit3_Nullable.cs" />
+    <Compile Include="Unit3_PartialClass_partial1.cs" />
+    <Compile Include="Unit3_PartialClass_partial2.cs" />
+    <Compile Include="Unit3_RefVal.cs" />
+    <Compile Include="Unit3_StackHeap.cs" />
+    <Compile Include="Unit3_Struct.cs" />
+    <Compile Include="Unit4_LINQ1.cs" />
+    <Compile Include="Unit4_LINQ2.cs" />
+    <Compile Include="Unit5_ExtensionMethods.cs" />
+    <Compile Include="Unit5_GarbageCollector.cs" />
+    <Compile Include="Unit6_Check.cs" />
+    <Compile Include="Unit6_Idispose.cs" />
+    <Compile Include="Unit6_isas.cs" />
+    <Compile Include="Unit7_Finalizer.cs" />
+    <Compile Include="Unit7_GetType.cs" />
+    <Compile Include="Unit8_Core.cs" />
+    <Compile Include="Unit8_Generics.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
